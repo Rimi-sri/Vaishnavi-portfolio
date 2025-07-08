@@ -1,0 +1,8 @@
+[theme]
+base="light"
+primaryColor="#4CAF50"         # A fresh green
+backgroundColor="#F5F5F5"      # Soft gray background
+secondaryBackgroundColor="#FFFFFF"  # Widget background
+textColor="#262730"            # Dark text
+font="sans serif"
+
